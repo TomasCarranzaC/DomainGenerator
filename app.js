@@ -1,6 +1,6 @@
 var pron = ["los", "nuestros"];
   var adj = ["geniales", "grandes"];
-  var noun = ["telecom", "caracoles", "desafio"];
+  var noun = ["telecom", "caracoles", "desafio", "internet", "repelus"];
   var ext = [".es", ".com", ".net", ".us", ".io"];
   for(var item of pron){
       for(var item1 of adj){
